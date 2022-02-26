@@ -4,7 +4,7 @@
 
 ###Top
 
-<img src=" root/img/Top.png ">
+<img src="root/img/Top.png">
 
 ##main
 
