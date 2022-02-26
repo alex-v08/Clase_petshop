@@ -1,17 +1,20 @@
-<h1> Trabajo Practico "Petshop" </h1>
+# Trabajo Practico "Petshop" 
 
-<h2>Alex</h2>
+## Alex
 
 
-<p> crear maqueta de Top y Main </p>
+### crear maqueta de Top y Main de la pagina
 
-<h3 > Top </h3>
+### Top
 
-<img src="root/img/Top.png">
 
-<h3> Main </h3>
 
-<img src="root/img/Main.png">
+![TOP](root/img/Top.png)
+
+
+### Main 
+
+![MAIN](root/img/Main.png)
 
 
 
