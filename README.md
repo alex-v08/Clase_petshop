@@ -8,7 +8,8 @@
 
 ##main
 
-<img src="root/img/Main.png
+<img src="root/img/Main.png">
+
 
 
 ##Bottom
