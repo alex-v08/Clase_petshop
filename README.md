@@ -1,16 +1,18 @@
-#Trabajo Practico "Petshop"
+<h1> Trabajo Practico "Petshop" </h1>
 
-##Alex
+<h2>Alex</h2>
 
-###Top
+
+<p> crear maqueta de Top y Main </p>
+
+<h3 > Top </h3>
 
 <img src="root/img/Top.png">
 
-##main
+<h3> Main </h3>
 
 <img src="root/img/Main.png">
 
 
 
-##Bottom
 
