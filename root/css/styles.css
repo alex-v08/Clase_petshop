@@ -1,0 +1,45 @@
+header{
+    background-color: #222222;
+    color: #fff;
+    height: 20px;
+}
+
+.position_nav_header {
+   position: relative;
+    left : 80%;
+    width: 110px;
+    height: 13px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.fondo_nav{
+    background-color: #222222;
+    color: white;
+    position: relative;
+    left: 80%;
+    border: none;
+    border-color: transparent transparent transparent;
+  
+}
+
+p{
+    display:inline;
+    position:relative;
+    width: 138px;
+    height: 12px;
+
+    left: 10%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+}
+#top{
+    background: #F0A83E;
+    height: 62px;
+    width: 100%;
+
+}
